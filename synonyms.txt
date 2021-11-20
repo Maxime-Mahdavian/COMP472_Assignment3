@@ -376,7 +376,7 @@ b.	exciting
 c.	offensive
 d.	dangerous
 d
-64.	tranquility
+64.	tranquillity
 a.	peacefulness
 b.	harshness
 c.	weariness
