@@ -72,7 +72,7 @@ def main():
     plt.legend(bar, tick_label, loc='upper center')
     plt.title("Accuracy of every model")
     plt.show()
-
+    print("Hello world")
 
 if __name__ == "__main__":
     main()
